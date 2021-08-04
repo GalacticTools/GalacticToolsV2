@@ -1,0 +1,119 @@
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic_Tools_V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\barnh\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source code\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Guna.UI2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CopyComplete
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CopyComplete
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\instr\Source\Repos\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.Fody.CopyLocal.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Guna.UI2.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\TrinitySeal.dll
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HomeLaptopWin10\source\repos\Galactic Tools V2 Source Code (1) (1)\Galactic Tools V2 Source Code (1)\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CopyComplete
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe.config
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.exe
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\Galactic_Tools_V2.pdb
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Apps.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Emulators.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Games.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Launchers.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Login.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Properties.Resources.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.Settings.resources
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.GenerateResource.cache
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CoreCompileInputs.cache
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.CopyComplete
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.exe
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.pdb
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csproj.Fody.CopyLocal.cache
+C:\Users\barnh.DRAKESPC\source\repos\Galactic Tools V2\Galactic_Tools_V2\obj\Debug\Galactic_Tools_V2.csprojAssemblyReference.cache

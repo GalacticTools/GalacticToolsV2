@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galactic_Tools_V2", "Galactic_Tools_V2\Galactic_Tools_V2.csproj", "{7AF7ADA5-11EE-4118-9E5A-B3729F0ED93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF7ADA5-11EE-4118-9E5A-B3729F0ED93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF7ADA5-11EE-4118-9E5A-B3729F0ED93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF7ADA5-11EE-4118-9E5A-B3729F0ED93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF7ADA5-11EE-4118-9E5A-B3729F0ED93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCB0F36-355F-4B42-9B63-1545700EDF45}
+	EndGlobalSection
+EndGlobal
